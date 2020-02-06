@@ -23,9 +23,9 @@ Experience Storio live at [https://www.storio.wardofcode.com](https://www.storio
 - User can toggle between list view and map view to view all spaces
 - User can view details of a space
 - User can send message to host of space
-- User can view list list of conversations
+- User can view a list of conversations
 - User can list a space
-- User can view list of their listings
+- User can view a list of their storages for rent
 
 ## App Preview
 ![Storio_List_Map_Feature](1_Search_List_Map_Feature.gif)
