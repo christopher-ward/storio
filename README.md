@@ -46,11 +46,13 @@ Experience Storio live at [https://www.storio-dev.wardofcode.com](https://www.st
 - PostgreSQL 6 or higher
 
 #### Getting Started
+If you'd like to play around with the project on your local machine, start in your command line interface (BASH, Cmder, Terminal, etc):
 
-1. Clone the repository.
+1. Clone this repository in your CLI.
 
 ```shell
-git clone https://github.com/sebtedesco/ec-sales.git
+git clone https://github.com/christopher-ward/storio.git
+cd storio
 ```
 
 2. Install all dependencies with NPM.
