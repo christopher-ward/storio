@@ -33,6 +33,10 @@ Experience Storio live at [https://www.storio-dev.wardofcode.com](https://www.st
 ![Storio_List_Map_Feature](1_Search_List_Map_Feature.gif)
 
 ![Storio_Sign_In_Messaging_Feature](2_Sign_In_Messaging_Feature.gif)
+
+## Upcoming Features
+- Users can create accounts
+- Desktop Compatibility
 ## Development
 
 ### System Requirements
