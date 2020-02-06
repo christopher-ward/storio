@@ -5,7 +5,7 @@ A mobile-first application that connects people who have extra storage space wit
 
 ## Live Demo
 
-Experience Storio live at [https://www.storio-dev.wardofcode.com](https://www.storio-dev.wardofcode.com)
+Experience Storio live at [https://www.storio.wardofcode.com](https://www.storio.wardofcode.com)
 
 ## Technologies Used
 - React
