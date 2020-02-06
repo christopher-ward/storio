@@ -5,7 +5,7 @@ A mobile-first application that connects people who have extra storage space wit
 
 ## Live Demo
 
-Experience Storio live at [https://www.storio-dev.sebtedesco.com](https://www.storio-dev.sebtedesco.com)
+Experience Storio live at [https://www.storio-dev.wardofcode.com](https://www.storio-dev.wardofcode.com)
 
 ## Technologies Used
 - React
@@ -33,6 +33,10 @@ Experience Storio live at [https://www.storio-dev.sebtedesco.com](https://www.st
 ![Storio_List_Map_Feature](1_Search_List_Map_Feature.gif)
 
 ![Storio_Sign_In_Messaging_Feature](2_Sign_In_Messaging_Feature.gif)
+
+## Upcoming Features
+- Users can create accounts
+- Desktop Compatibility
 ## Development
 
 ### System Requirements
@@ -42,11 +46,13 @@ Experience Storio live at [https://www.storio-dev.sebtedesco.com](https://www.st
 - PostgreSQL 6 or higher
 
 #### Getting Started
+If you'd like to play around with the project on your local machine, start in your command line interface (BASH, Cmder, Terminal, etc):
 
-1. Clone the repository.
+1. Clone this repository in your CLI.
 
 ```shell
-git clone https://github.com/sebtedesco/ec-sales.git
+git clone https://github.com/christopher-ward/storio.git
+cd storio
 ```
 
 2. Install all dependencies with NPM.
@@ -60,4 +66,4 @@ npm install
 npm run dev
 ```
 
-4. Once started, you can view the application by opening [https://localhost:3000](https://localhost:3000)
+4. Once started, you can view the application by opening [https://localhost:3000](https://localhost:3000) in your browser
