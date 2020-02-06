@@ -17,8 +17,6 @@ Experience Storio live at [https://www.storio-dev.wardofcode.com](https://www.st
 - CSS3
 - AWS EC2
 
-## Live Demo
-
 ## Features
 - User can sign in
 - User can search for storages by city and state
