@@ -64,4 +64,4 @@ npm install
 npm run dev
 ```
 
-4. Once started, you can view the application by opening [https://localhost:3000](https://localhost:3000)
+4. Once started, you can view the application by opening [https://localhost:3000](https://localhost:3000) in your browser
