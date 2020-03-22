@@ -12,6 +12,7 @@ Experience Storio live at [https://www.storio.wardofcode.com](https://www.storio
 - Webpack 4
 - Bootstrap 4
 - Node.js
+- Express
 - PostrgreSQL
 - HTML5
 - CSS3
