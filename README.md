@@ -35,7 +35,7 @@ Experience Storio live at [https://www.storio.wardofcode.com](https://www.storio
 
 ## Upcoming Features
 - Users can create accounts
-- Desktop Compatibility
+- Desktop View
 ## Development
 
 ### System Requirements
